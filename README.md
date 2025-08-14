@@ -77,11 +77,15 @@ APADP accelerates antibiotic discovery using:
 - **Predictive Healthcare:** Anticipate resistance before outbreaks  
 
 ---
+## 🖥 Demo
 
-##  Demo
+- **Live Demo:** [Click here to try the interactive platform](https://yourusername.github.io/apadp/apadp_website.html) *(replace with your GitHub Pages link)*  
 
-You can interact with the **live demo interface** (included in this repository) to test AI predictions using **sample compound data**.  
-The demo simulates predictions for educational purposes.
+---
+
+## 📄 Research Document
+
+- **Read the Full Research Report:** https://docs.google.com/document/d/10UR1CKH6XieeztXCDpLheXyPiBgRkv217ijsvEM89Lg/edit?usp=sharing
 
 ---
 
