@@ -90,7 +90,6 @@ The demo simulates predictions for educational purposes.
 ```
 .
 ├── apadp_website.html      # Interactive platform UI
-├── research_document.pdf   # Comprehensive technical report
 └── README.md               # Project documentation
 ```
 
