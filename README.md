@@ -79,7 +79,7 @@ APADP accelerates antibiotic discovery using:
 ---
 ## 🖥 Demo
 
-- **Live Demo:** [Click here to try the interactive platform](https://yourusername.github.io/apadp/apadp_website.html) *(replace with your GitHub Pages link)*  
+- **Live Demo:**  https://apadp.netlify.app/ 
 
 ---
 
@@ -93,7 +93,7 @@ APADP accelerates antibiotic discovery using:
 
 ```
 .
-├── apadp_website.html      # Interactive platform UI
+├── index.html      # Interactive platform UI
 └── README.md               # Project documentation
 ```
 
@@ -108,7 +108,7 @@ APADP accelerates antibiotic discovery using:
    ```
 
 2. **Run the HTML demo locally**
-   - Open `apadp_website.html` in your browser
+   - Open `index.html` in your browser
 
 3. **Explore the research**
    - Read `Research Document for AI-Powered Antibiotic Discovery Platform.pdf`
